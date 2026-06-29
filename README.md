@@ -134,6 +134,7 @@ GlowVeda skincare brand — 8 abandoned carts including Priya (premium VIP, ₹1
 
 **Ram** — founded MissedCallRecovery.org — an AI voice 
 receptionist platform for US plumbing and HVAC 
-businesses built on Retell AI, Twilio, and n8n. 
+businesses built on Retell AI, Twilio, and n8n.
+Available for freelance AI automation projects
 Building done-for-you AI systems for D2C brands and service businesses  
 [GitHub](https://github.com/Ram-cyber-dev)
